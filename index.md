@@ -1,6 +1,6 @@
 # Hello World
 
-w\Welcome to my homepage! My name is Jazmin Escalona and I am a student at Cal State Fullerton (http://www.fullerton.edu/) and my major is Computer Science.
+Welcome to my homepage! My name is Jazmin Escalona and I am a student at Cal State Fullerton (http://www.fullerton.edu/) and my major is Computer Science.
 
 ## Computer Science Projects
 
